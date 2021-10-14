@@ -1,0 +1,1 @@
+web: gunicorn projecteshop.wsgi --log-file -
